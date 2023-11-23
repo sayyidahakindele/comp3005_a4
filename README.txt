@@ -6,7 +6,7 @@ FILES
 - a4.py
 - create_and_populate.sql
 - README.TEXT
-- recording_of_testing_.mp4
+- recording_of_testing_.mp4: https://youtu.be/DN2um3fXk2k
 
 
 DATABASE SETUP
