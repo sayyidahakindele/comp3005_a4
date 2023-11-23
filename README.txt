@@ -1,10 +1,19 @@
 NAME: Doyinsola Sayyidah Akindele
 STUDENT ID: 101192813
 
+FILES
+-----
+- a4.py
+- create_and_populate.sql
+- README.TEXT
+- recording_of_testing_.mp4
+
+
 DATABASE SETUP
 --------------
-Create a new database and note down the host, name, username and password
+1. Create a new database and note down the host, name of database, username and password
 
+Right click on new databse and create QueryTool. Open the provided script - create_and_populate.sql in pgAdmin4 OR
 Copy and paste the following code into your pgAdmin4 and run
 
 -- Create the students table
@@ -31,7 +40,7 @@ COMPILE & RUN
 3. Choose options in the menu and provide neede information
 4. If you want to exit program, choose 0
 
-FUCTIONS
+FUNCTIONS
 --------
 connect()
     establishes a connection to the SQL database using details
